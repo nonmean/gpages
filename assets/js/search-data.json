@@ -40,6 +40,22 @@
   
 
   
+      ,"page3": {
+          "title": "Links",
+          "content": "Links .",
+          "url": "https://nonmean.github.io/gpages/links/",
+          "relUrl": "/links/",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+
+  
   
 
   
@@ -48,18 +64,13 @@
   
 
   
-
-  
   
 
   
   
 
   
-  
-
-  
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://nonmean.github.io/gpages/robots.txt",
